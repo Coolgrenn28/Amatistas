@@ -1,0 +1,72 @@
+[
+    {
+        "id": "collar-01",
+        "titulo": "Collar 01",
+        "imagen": "/img/3.jpeg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "collar-02",
+        "titulo": "Collar 02",
+        "imagen": "/img/4.jpeg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 32000
+    },
+    {
+        "id": "collar-03",
+        "titulo": "Collar 03",
+        "imagen": "/img/5.jpeg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "collar-04",
+        "titulo": "Collar 04",
+        "imagen": "/img/6.jpeg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "pulsera-01",
+        "titulo": "Pulsera 01",
+        "imagen": "/img/2.jpeg",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 32000
+    },
+    {
+        "id": "arete-01",
+        "titulo": "Arete 01",
+        "imagen": "/img/1.jpeg",
+        "categoria": {
+            "nombre": "Aretes",
+            "id": "aretes"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "arete-02",
+        "titulo": "Arete 02",
+        "imagen": "/img/7.jpeg",
+        "categoria": {
+            "nombre": "Aretes",
+            "id": "aretes"
+        },
+        "precio": 31000
+    }
+]
